@@ -1,0 +1,9 @@
+city,state,total_accidents,total_casualties,fatal_accidents,avg_risk_score
+Chandigarh,Punjab,2577,4377,378,0.44161816065192083
+Chennai,Tamil Nadu,2575,4567,371,0.4375728155339806
+Kolkata,West Bengal,2559,4508,377,0.4345838218053928
+Pune,Maharashtra,2517,4419,398,0.4358363130711164
+Mumbai,Maharashtra,2492,4297,359,0.4343499197431782
+Bangalore,Karnataka,2438,4128,384,0.44021739130434784
+Delhi,Delhi,2433,4175,382,0.43711467324291
+Hyderabad,Telangana,2409,4058,338,0.4394562058945621
